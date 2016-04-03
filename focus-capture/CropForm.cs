@@ -34,7 +34,7 @@ namespace focus_capture {
             if (e.KeyCode == Keys.Escape) {
                 Close();
             } else if (e.KeyCode == Keys.Space) {
-                // ...
+                // todo
             }
         }
 
